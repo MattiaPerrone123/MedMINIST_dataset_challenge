@@ -1,0 +1,4 @@
+pathmnist
+train auc: 0.99999 acc: 0.99893 f1-score: 0.99893
+val auc: 0.99940 acc: 0.97411 f1-score: 0.97410
+test auc: 0.97908 acc: 0.85627 f1-score: 0.85469
