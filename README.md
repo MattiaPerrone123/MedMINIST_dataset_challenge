@@ -68,7 +68,7 @@ MedMNIST_dataset_challenge/
 ### Model Training and Evaluation
 
 To see an example of model training and evaluation, refer to the `medmnist_analysis.ipynb` notebook. 
-The model achieving the highest validation AUC will have its weights saved in the outputs/pathmnist directory. For reference, refer to this [link](https://drive.google.com/file/d/1ahbDq5CyOlMmOJCPSr0xkpd3VFSZewzT/view?usp=sharing).
+The model achieving the highest validation AUC will have its weights saved in the output/pathmnist directory. For reference, refer to this [link](https://drive.google.com/file/d/1ahbDq5CyOlMmOJCPSr0xkpd3VFSZewzT/view?usp=sharing).
 
 
 
