@@ -1,0 +1,9 @@
+torch
+torchvision
+medmnist
+pillow
+scikit-learn
+tensorboardX
+tqdm
+matplotlib
+seaborn
