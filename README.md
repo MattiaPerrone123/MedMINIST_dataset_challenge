@@ -33,7 +33,7 @@ MedMNIST_dataset_challenge/
 │
 ├── main.py                                          # Main script for model training and evaluation
 │
-├── medmnist_analysis.py                             # Example of model training and evaluation
+├── medmnist_analysis.ipynb                             # Example of model training and evaluation
 │
 ├── requirements.txt                                 # List of package dependencies
 │
