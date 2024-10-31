@@ -7,7 +7,7 @@ This repository contains an end-to-end medical imaging pipeline for classifying 
 MedMNIST_dataset_challenge/
 │
 │
-├── outputs/                                         # Folder with generated outputs 
+├── output/                                         # Folder with generated outputs 
 │   ├── pathmnist/                                   # Folder with the name of the dataset used
 │     ├── loss_plot.png                              # Plot of training and validation loss
 │     ├── pathmnist_log.txt                          # Log of train, val and test auc, accuracy and f1-score
